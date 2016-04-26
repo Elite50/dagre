@@ -10,8 +10,6 @@
     "README.md",
     "CHANGELOG.md",
     "Makefile",
-    "dist/dagre.js",
-    "dist/dagre.min.js",
     "index.js",
     "karma*",
     "lib/**",
